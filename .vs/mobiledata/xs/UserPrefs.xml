@@ -1,0 +1,32 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{97052D45-726D-40C1-8161-658E07BA5716}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="mobiledata/MainPage.xaml.cs" Line="9" Column="31" />
+      <File FileName="mobiledata/MainPage.xaml" />
+      <File FileName="mobiledata.iOS/Main.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mobiledata" expanded="True">
+            <Node name="mobiledata" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.mobiledata.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D8C961D7-DFAA-4C59-BA6A-D7EFD44C592A" />
+  <MonoDevelop.Ide.ItemProperties.mobiledata.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_3_XL_Edited_API_23" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
